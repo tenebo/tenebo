@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/tenebo/tenebo/assets/54756611/f6da82a2-d7a6-45b9-8e2d-3ce8ff0f6834');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 1; background: url('https://github.com/tenebo/tenebo/assets/54756611/f6da82a2-d7a6-45b9-8e2d-3ce8ff0f6834');]{x0000}$}
 ```
